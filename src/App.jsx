@@ -77,7 +77,7 @@ function App() {
         <header className="header">
           <div>
             <h1>CI Dashboard</h1>
-            <p>Monitor your builds, tests and deployments.</p>
+            <p>LEARN SOMETHING NEW.</p>
           </div>
 
           <button className="run-button">
